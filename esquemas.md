@@ -1,1 +1,2 @@
-![freno_disco](images/freno_disco.png)
+<img src="images/freno_disco.png" width=50%>
+

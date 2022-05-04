@@ -4,7 +4,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166726633-982b5b23-e235-4d93-97de-1e32b9c25ca0.png"/>
 </p>  
+
 ### From this measures, we make the chart of the speed inside of the wind tunnel compared to the voltage, and we get the linearity coefficient:  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166726834-45799595-1c08-4810-9092-f3cf6fead670.png"/>
 </p>
+
+### So, we have the linearity coefficient: k=0,0915 m/s/V. From this coefficient, we can fix any speed inside the wind tunnel while that not exceed 5m/s witch is the maximal speed for this generators.

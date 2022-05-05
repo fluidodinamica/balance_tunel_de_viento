@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/104587276/166970391-a733e828-1131-4365-bf0a-195d40c10461.png"/>
 </p>  
 
+![image](https://user-images.githubusercontent.com/104587276/166998885-31dddb85-17bf-4b12-a184-84d5fa79075e.png)
+
 ### With this method, we can measure the drag force of any module for a speed know. For example we can measure the drag force of a basic cylinder for some speed and compared the result with theorics values :
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166973557-18a1a91c-e890-4137-a0f2-bf0f8cc8a3a8.png"/>
@@ -18,5 +20,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166976281-332447a3-1565-4d8e-b448-cf27f00cc306.png"/>
 </p> 
+
 
 

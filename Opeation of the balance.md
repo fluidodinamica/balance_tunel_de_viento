@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/104587276/167152004-4aeec315-5941-45a6-8a1c-c2f7d5c24f2c.png)
 
-### With this method, we can measure the drag force of any module for a speed know. For example we can measure the drag force of a basic cylinder for some speed and compared the result with theorics values :
+### With this method, we can measure the drag force of any module for a speed know. For example we can measure the drag force of a basic cylinder for some speed and compared the result with theorics values ([link for the values](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/Values%20drag%20force.csv)):
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166973557-18a1a91c-e890-4137-a0f2-bf0f8cc8a3a8.png"/>
 </p> 

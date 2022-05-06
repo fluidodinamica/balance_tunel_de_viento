@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/104587276/166975389-e1400ceb-d474-4373-8ef0-5102f68a3811.png"/>
 </p> 
 
-### Now, by subtracking the weight measured for the module support alone to the weight measured for the module, we find drag force of the cylinder much closer of the theoric values : 
+### Now, by subtracking the weight measured for the module support alone to the weight measured for the module, we find drag force of the cylinder much closer of the theoric values ([link for the values](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/Values%20drag%20force%20without%20support.csv)): 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166976281-332447a3-1565-4d8e-b448-cf27f00cc306.png"/>
 </p> 

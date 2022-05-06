@@ -21,5 +21,5 @@
   <img src="https://user-images.githubusercontent.com/104587276/166976281-332447a3-1565-4d8e-b448-cf27f00cc306.png"/>
 </p> 
 
-
+### The values measure by the sensor varied always due to the repeatability uncertainty. We measured this uncertaintly, we found a weight uncertaintly of 0,0246 g so a drag force uncertaintly of 0,00031 N. 
 

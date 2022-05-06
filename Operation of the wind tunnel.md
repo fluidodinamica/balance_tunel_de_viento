@@ -1,6 +1,6 @@
 # Operation of the wind tunnel
 ### The wind tunnel work with two electric generators pluged by series, to switch on the wind tunnel you have to switch on the generators and fix a voltage. The speed of the air inside of the wind tunnel is then unknow. The speed inside the wind tunnel being linearly compared to the voltage, so we can find it using the linearity coefficient.  
-### We take the followed measures of the speed for different voltage by using the  measure device testo 405i: 
+### We take the followed measures of the speed for different voltage by using the  measure device testo 405i ([link for the values](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/Wind%20tunnel%20speed.csv)): 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166726633-982b5b23-e235-4d93-97de-1e32b9c25ca0.png"/>
 </p>  

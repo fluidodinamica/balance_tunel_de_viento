@@ -20,7 +20,7 @@ void  setup ( )  {
 }
 void  loop ( )  { 
   //Serial . print ( "Weight: " ) ; 
-  Serial . println ( balance . get_units ( 20 ) , 3 ) ; 
+  Serial . println ( balance . get_units ( 1 ) , 3 ) ; 
   //Serial . println ( "g" ) ; 
   delay ( 0 ) ; 
 }

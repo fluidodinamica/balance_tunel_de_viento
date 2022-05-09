@@ -1,7 +1,7 @@
 # Operation of the balance
 | Former system | New System | 
 |:-:|:-:|
-|<img src="https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG_0321%20(1).jpg" width=50%>|<img src="images/freno_disco.png" width=50%>|
+|<img src="https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG_0321%20(1).jpg" width=50%>|<img src="https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG_0916.jpg" width=50%>|
 ---------
 ### The balance works with a gauge sensor working by a wheaston bridge. Before any measure, take care that all the screw or bolt of the measurement system are well screwed. This sensor measures a weight which is saved by an arduino card with the [program of acquisition](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/_talonnage_masse.ino), we have to plug your computer on the arduino card. To saved the values give by the arduino program, we should use a software called [CoolTerm](https://coolterm.en.lo4d.com/windows). From the weight values of the sensor we can find the values of drag force using fundamental principle of statics ; according to the different forces undergone by the balance, we have the following equation:
 <p align="center">

@@ -2,9 +2,8 @@
 ### The balance works with a gauge sensor working by a wheaston bridge. Before any measure, take care that all the screw or bolt of the measurement system are well screwed. This sensor measures a weight which is saved by an arduino card with the [program of acquisition](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/_talonnage_masse.ino), we have to plug your computer on the arduino card. To saved the values give by the arduino program, we should use a software called [CoolTerm](https://coolterm.en.lo4d.com/windows). From the weight values of the sensor we can find the values of drag force using fundamental principle of statics ; according to the different forces undergone by the balance, we have the following equation:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166970391-a733e828-1131-4365-bf0a-195d40c10461.png"/>
+<img src="https://user-images.githubusercontent.com/104587276/167152004-4aeec315-5941-45a6-8a1c-c2f7d5c24f2c.png" width=60%>
 </p>  
-
-![image](https://user-images.githubusercontent.com/104587276/167152004-4aeec315-5941-45a6-8a1c-c2f7d5c24f2c.png)
 
 ### With this method, we can measure the drag force of any module for a speed know. For example we can measure the drag force of a basic cylinder for some speed and compared the result with theorics values ([link for the values](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/Values%20drag%20force.csv)):
 <p align="center">

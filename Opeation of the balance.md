@@ -26,7 +26,7 @@
 
 ### According to the different forces undergone by the balance, the following equation results:
 
-$$F_D = 12.63\cdot10^{-3} \times weight_{arduino}$$
+$$\boxed{F_D = 12.63\cdot10^{-3} \times weight_{arduino}}$$
  
 
 ### We tested the device in the "Tango" Wind Tunnel .  We  measure the drag force of a circular cylinder for a range of velocities and compared the result with reference values ([link for the values](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/Values%20drag%20force.csv)):

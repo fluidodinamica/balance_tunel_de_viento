@@ -46,3 +46,6 @@ $$\boxed{F_D = 12.63\cdot10^{-3} \times weight_{arduino}}$$
 
 ### The values measured by the sensor varied always due to the repeatability uncertainty. We measured this uncertaintly, we found a weight uncertainty of 0,0246 g so a drag force uncertainty of 0,00031 N. 
 
+
+Lift and Drag file read by [script](lee_salida_balanza.py)
+

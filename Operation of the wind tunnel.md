@@ -13,4 +13,4 @@
 ### So, we have the linearity coefficient: k=0,0915 m/s/V. From this coefficient, we can fix any speed inside the wind tunnel while that not exceed 5m/s witch is the maximal speed with this generators.
 
 
-Lift and Drag file read by [script](lee_salida_balanza.py)
+

@@ -2,9 +2,11 @@
 | Former system | New System | 
 |:-:|:-:|
 |<img src="foto_brazo_1.jpg" width=50%>|<img src="foto_sensor.jpg" width=50%>|
-|<img src="https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG_0321%20(1).jpg" width=50%>|<img src="https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG_0916.jpg" width=50%>|
 ---------
 ### The balance works with a gauge sensor [HX711](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/IMG-0959.jpg) working by a wheaston bridge. Before any measure, take care that all the screw or bolt of the measurement system are well screwed. This sensor measures a weight which is saved by an arduino card with the [program of acquisition](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/_talonnage_masse.ino), we have to plug your computer on the arduino card. It is important to note that this programe work only with the gauge sensor actually fix on the balance, for any other sensor a calibration is mandatory to replace the "set_scale" value. To saved the values give by the arduino program, we should use a software called [CoolTerm](https://coolterm.en.lo4d.com/windows). The acquisition frequency of the sensor is around 10 Hz. From the weight values of the sensor we can find the values of drag force using fundamental principle of statics; according to the different forces undergone by the balance, we have the following equation:
+\begin{equation}
+F_D = 12.63\cdot10^{-3} \times weight_{arduino}
+\end{equation}
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104587276/166970391-a733e828-1131-4365-bf0a-195d40c10461.png"/>
 <img src="https://user-images.githubusercontent.com/104587276/167152004-4aeec315-5941-45a6-8a1c-c2f7d5c24f2c.png" width=60%>

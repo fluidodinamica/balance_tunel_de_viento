@@ -15,7 +15,7 @@
 
 ### In order to save measurements to the disk drive,  a software called  [CoolTerm] (https://coolterm.en.lo4d.com/windows) is applied. 
 
-### The acquisition frequency of the sensor is around 10 Hz. 
+### The acquisition frequency of the sensor is  10 Hz but it has been modified in order to achieve 80 Hz following instructions on [datasheet](https://github.com/fluidodinamica/balance_tunel_de_viento/blob/main/datasheet_HX711.pdf)
 
 ### From the weight values of the sensor  values of drag force are obtained from  fundamental principle of statics as depicted on the following figure:
 <p align="center">
